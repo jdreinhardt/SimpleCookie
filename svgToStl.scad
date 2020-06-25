@@ -1,4 +1,4 @@
-filePath = "Hammer [2.8x4in].svg";
+filePath = "Samples\Hammer [2.8x4in].svg";
 bladeHeight = 20;
 bladeWidth = 0.88;
 baseHeight = 2;
