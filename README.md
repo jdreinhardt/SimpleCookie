@@ -34,6 +34,7 @@ This works much the same as above, but will pass the scaling through as is.
 - ImageMagick
 - Potrace
 - Inkscape >= 0.92
+- OpenSCAD >= 2019.05
 
 ## Roadmap
 
